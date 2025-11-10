@@ -27,3 +27,10 @@ Turn the Knob on the front display and you can get:
 <img width="698" height="689" alt="image" src="https://github.com/user-attachments/assets/b9c25d7c-cba2-44db-98ed-749c93649309" />
 <img width="613" height="965" alt="image" src="https://github.com/user-attachments/assets/cccda1b9-fa15-4e90-855f-0f4fdea8285c" />
 
+# Setup Instructions
+
+TODO
+
+If you like my work, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mgreenwood)
