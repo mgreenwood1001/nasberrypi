@@ -1,4 +1,4 @@
-# nasberrypi
+# NASberryPI - A Raspberry PI 5 NAS System
 NASberryPI software
 
 <img width="620" height="733" alt="Screenshot 2025-11-09 at 7 36 14 PM" src="https://github.com/user-attachments/assets/d15263a2-2fc8-4136-899b-6af1c2aaec7d" />
